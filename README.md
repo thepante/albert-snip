@@ -1,5 +1,5 @@
 # Snip extension for Albert
-Based on SCReenshOT utility (by Benedict Dudel) that does use `scrot`. "Snip" does use gnome-screenshot utility instead.
+Based on SCReenshOT utility (by Benedict Dudel) that uses `scrot`. "Snip" does use gnome-screenshot instead.
 
 ![Screenshot](https://i.imgur.com/ByrrQJA.png)
 
@@ -15,4 +15,10 @@ Based on SCReenshOT utility (by Benedict Dudel) that does use `scrot`. "Snip" do
 
 'Full screenshot' options auto save the capture to the 'Pictures' folder. Its default action its the first one. And for 'Snip screen' when capture to the clipboard (default) it's doesn't auto save, it's for paste it.
 
-![Demostration](https://i.imgur.com/VflXfoG.gifv)
+[See a demo](https://i.imgur.com/CO1Qh8L.mp4)
+
+## Get it
+With just this line:
+```
+git clone https://github.com/thepante/albert-snip.git "~/.local/share/albert/org.albert.extension.python/modules/snip"
+```
