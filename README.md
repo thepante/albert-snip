@@ -1,5 +1,4 @@
-# Snip extension for Albert
-Based on SCReenshOT utility (by Benedict Dudel) that uses `scrot`. "Snip" does use gnome-screenshot instead.
+Snip is a extension for Albert Launcher. It is based on 'SCReenshOT utility' (by Benedict Dudel) which uses `scrot`. 'Snip' does use the utility gnome-screenshot instead.
 
 ![Screenshot](https://i.imgur.com/ByrrQJA.png)
 
@@ -17,7 +16,7 @@ Based on SCReenshOT utility (by Benedict Dudel) that uses `scrot`. "Snip" does u
 
 [See a demo](https://i.imgur.com/CO1Qh8L.mp4)
 
-## Get it
+### Get it
 With just this line:
 ```
 git clone https://github.com/thepante/albert-snip.git "~/.local/share/albert/org.albert.extension.python/modules/snip"
