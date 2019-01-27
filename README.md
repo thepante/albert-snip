@@ -16,7 +16,7 @@ Snip is a extension for Albert Launcher. It is based on 'SCReenshOT utility' (by
 'Full screenshot' options auto save the capture to the 'Pictures' folder. Its default action its the first one. And for 'Snip screen' when capture to the clipboard (default) it's doesn't auto save, it's for paste it.  
 [**Watch it in action**](https://i.imgur.com/CO1Qh8L.mp4)
 
-### Get it
+## Get it
 ```
 git clone https://github.com/thepante/albert-snip.git "~/.local/share/albert/org.albert.extension.python/modules/snip"
 ```
