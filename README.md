@@ -19,5 +19,5 @@ Snip is a extension for Albert Launcher. It is based on 'SCReenshOT utility' (by
 
 ## Get it
 ```
-git clone https://github.com/thepante/albert-snip.git ~/.local/share/albert/org.albert.extension.python/modules/snip
+git clone https://github.com/thepante/albert-snip.git /usr/share/albert/org.albert.extension.python/modules/snip
 ```
