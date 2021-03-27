@@ -3,7 +3,7 @@
 Snip is a extension for [Albert Launcher](https://github.com/albertlauncher/albert). It is based on 'SCReenshOT utility' (by Benedict Dudel) which uses `scrot`. 'Snip' does use the utility gnome-screenshot instead.
 
 ## Features
-Triggered with `ss `. The default action (sequence <kbd>ss</kbd> <kbd>Space</kbd> <kbd>Enter</kbd>) is to draw a rectacle with the mouse and get that screenshot on clipboard.
+Triggered with `ss `. The default action (sequence <kbd>ss</kbd> <kbd>Space</kbd> <kbd>Enter</kbd>) is to draw a rectangle with the mouse and get that screenshot on clipboard.
 
 **You can also select between those options:**
  * Snip screen → Capture to clipboard _[default action]_
